@@ -1,0 +1,13 @@
+{
+  "name": "reconstruct2d",
+  "version": "1.0.0",
+  "dependencies": [
+    "ann",
+    "freeglut",
+    "glew",
+    "libpng",
+    "pngpp",
+    "cgal",
+    "gmp"
+  ]
+}

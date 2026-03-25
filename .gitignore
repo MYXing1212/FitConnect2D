@@ -1,0 +1,32 @@
+# Build
+build2/
+build/
+*.obj
+*.exe
+*.lib
+*.exp
+*.dll
+*.pdb
+*.ilk
+*.log
+
+# IDE
+.vs/
+.vscode/
+*.user
+CMakeSettings.json
+
+# 3rdparty binaries (keep source)
+3rdparty/freeglut/bin/
+3rdparty/freeglut/lib/
+3rdparty/ann_1.1.2/bin/
+3rdparty/ann_1.1.2/lib/
+3rdparty/*.zip
+3rdparty/*.tar.gz
+
+# vcpkg
+vcpkg_local/
+
+# OS
+Thumbs.db
+.DS_Store
